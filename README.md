@@ -31,4 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-2004&" alt="karthikeyan-2004" /></p>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt=""/></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-2004&theme=react" height="250" width="500" alt="activity-graph graph"  /></p>
+
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="150" alt=""/></p>
