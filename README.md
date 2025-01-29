@@ -2,13 +2,13 @@
 <h3 align="center">Passionate Developer | IT Student | Problem Solver</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-2004" alt="karthikeyan-2004" /></a> </p>
-<p align="center">
+<p>
   - 🌱 I’m currently learning **ReactJS, Mobile App Development, Blockchain Technology...**
-</p><p align="center">
+</p><p>
 - 👨‍💻 All of my projects are available at [github.com/karthikeyan-2004](github.com/karthikeyan-2004)
-</p><p align="center">
+</p><p>
 - 📫 How to reach me **karthikeyanranganathan731@gmail.com**
-</p><p align="center">
+</p><p>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bArAD78CQyLK5kYGlTNQ_XszHYysUy-A/view?usp=sharing">[Resume]</a>
 </p>
 
